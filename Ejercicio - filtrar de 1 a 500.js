@@ -12,10 +12,10 @@ function pediryAlmacenarNumeros (veces) {
     } else {
       console.log('Por favor, ingrese únicamente números comprendidos entre 1 y 500.')
     }
-    
   }
 }
 pediryAlmacenarNumeros(10);
+//probar con alert para que no cuente 10 veces si no cumple
 
 //2º Almacenar en otro array los números comprendidos entre el 1 y 250
 function filtrar1a250() {
